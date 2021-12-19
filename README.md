@@ -1,1 +1,2 @@
 # RepaintMinecraft
+这个是个重新绘制Minecraft贴图的项目，喜欢别忘记给我星星
